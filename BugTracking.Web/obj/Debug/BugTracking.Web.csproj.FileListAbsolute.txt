@@ -1,0 +1,7 @@
+D:\Lichna Rabota\Телерик\Lectures Private\QAAcademy\SVN\Lectures\day20_Exercise\Source\BugTracking.Web\bin\BugTrackingSystem.dll
+D:\Lichna Rabota\Телерик\Lectures Private\QAAcademy\SVN\Lectures\day20_Exercise\Source\BugTracking.Web\bin\BugTrackingSystem.pdb
+D:\Lichna Rabota\Телерик\Lectures Private\QAAcademy\SVN\Lectures\day20_Exercise\Source\BugTracking.Web\bin\BugTracking.Data.dll
+D:\Lichna Rabota\Телерик\Lectures Private\QAAcademy\SVN\Lectures\day20_Exercise\Source\BugTracking.Web\bin\BugTracking.Data.pdb
+D:\Lichna Rabota\Телерик\Lectures Private\QAAcademy\SVN\Lectures\day20_Exercise\Source\BugTracking.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Lichna Rabota\Телерик\Lectures Private\QAAcademy\SVN\Lectures\day20_Exercise\Source\BugTracking.Web\obj\Debug\BugTrackingSystem.dll
+D:\Lichna Rabota\Телерик\Lectures Private\QAAcademy\SVN\Lectures\day20_Exercise\Source\BugTracking.Web\obj\Debug\BugTrackingSystem.pdb

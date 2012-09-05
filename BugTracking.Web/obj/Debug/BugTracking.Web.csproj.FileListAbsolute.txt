@@ -5,3 +5,10 @@ D:\Lichna Rabota\Телерик\Lectures Private\QAAcademy\SVN\Lectures\day20_Ex
 D:\Lichna Rabota\Телерик\Lectures Private\QAAcademy\SVN\Lectures\day20_Exercise\Source\BugTracking.Web\obj\Debug\ResolveAssemblyReference.cache
 D:\Lichna Rabota\Телерик\Lectures Private\QAAcademy\SVN\Lectures\day20_Exercise\Source\BugTracking.Web\obj\Debug\BugTrackingSystem.dll
 D:\Lichna Rabota\Телерик\Lectures Private\QAAcademy\SVN\Lectures\day20_Exercise\Source\BugTracking.Web\obj\Debug\BugTrackingSystem.pdb
+C:\inetpub\wwwroot\Source\BugTracking.Web\bin\BugTrackingSystem.dll
+C:\inetpub\wwwroot\Source\BugTracking.Web\bin\BugTrackingSystem.pdb
+C:\inetpub\wwwroot\Source\BugTracking.Web\bin\BugTracking.Data.dll
+C:\inetpub\wwwroot\Source\BugTracking.Web\bin\BugTracking.Data.pdb
+C:\inetpub\wwwroot\Source\BugTracking.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Source\BugTracking.Web\obj\Debug\BugTrackingSystem.dll
+C:\inetpub\wwwroot\Source\BugTracking.Web\obj\Debug\BugTrackingSystem.pdb
